@@ -21,7 +21,7 @@ Template-based case summary
 LLM-based narrative using OpenAI API
 Visual Outputs: correlation heatmap, feature importance chart, and timelines.
 
-📈** Visual Outputs**
+📈 **Visual Outputs**
 correlation_heatmap.png
 feature_importance.png
 transaction_timeline.png
@@ -35,11 +35,11 @@ Assigns High Risk via the ML model.
 Finds similar historical cases.
 Generates an LLM-based narrative summarizing the findings.
 
-🔮** Future Enhancements**
+🔮**Future Enhancements**
 Add graph-based counterparty network analysis (Neo4j).
 Introduce anomaly detection (Isolation Forest / AutoEncoder).
 Generate regulator-ready SAR/STR drafts (FINTRAC-style).
 Connect to open AML typology datasets for realism.
 
-👤** Author**
+👤**Author**
 Manasi Rane
